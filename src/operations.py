@@ -6,6 +6,7 @@ def summation(a, b):
     return a + b
 
 def substraction(a, b):
+    """Substracts b from a"""
     return a - b
 
 def division(a, b):
