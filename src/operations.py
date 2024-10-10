@@ -6,8 +6,7 @@ import pytest
 def summation(a, b):
     return a + b
 
-def sub(a, b):
-    #TODO: would be good to give this function a better name
+def subtraction(a, b):
     return a - b
 
 def division(a, b):
