@@ -3,7 +3,6 @@ Combining operations
 '''
 from operations import summation, subtraction
 
-
 def perform_operation(num1, num2, operation):
     if operation == "add":
         result = summation(num1, num2)
